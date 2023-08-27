@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wtaSpecflowBDDSeleniumAutomation", "wtaSpecflowBDDSeleniumAutomation.csproj", "{4237FFA4-03E4-497F-A9C2-8CE62B501150}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4237FFA4-03E4-497F-A9C2-8CE62B501150}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4237FFA4-03E4-497F-A9C2-8CE62B501150}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4237FFA4-03E4-497F-A9C2-8CE62B501150}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4237FFA4-03E4-497F-A9C2-8CE62B501150}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C106A8D1-BD3F-4620-9466-18D38F7AEC1C}
+	EndGlobalSection
+EndGlobal
